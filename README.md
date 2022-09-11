@@ -7,6 +7,8 @@ to move from one activity to another activity. Don't use LinearLayout in Constra
 
 ![image](https://user-images.githubusercontent.com/79136692/189537926-cb3699e7-8c1e-4ed3-8d1a-1cda0a76d918.png)
 
+![image](https://user-images.githubusercontent.com/79136692/189538217-184eda92-cf05-4ec0-81da-ad3b566caf85.png)
+
 ![Screenshot 2022-09-11 214742](https://user-images.githubusercontent.com/79136692/189538101-0f1b0e99-05e4-413c-a44e-234fca3059f7.png)
 
 ![Screenshot 2022-09-11 214817](https://user-images.githubusercontent.com/79136692/189538105-4f33f813-6890-42dc-9fac-36a9a2964c65.png)
